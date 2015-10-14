@@ -1,0 +1,11 @@
+LibZano
+libZano.zip
+libZano.dll
+Release
+Debug
+*.exe
+*.dll
+*.suo
+*.flight
+Bin/FLS.flights
+*.zip
